@@ -2,3 +2,4 @@ List of World Currencies
 US Dollar
 China Yuan
 Indian Rupee
+jbronston: Mexican Peso
