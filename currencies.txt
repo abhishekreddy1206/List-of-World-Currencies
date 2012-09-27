@@ -3,3 +3,4 @@ US Dollar
 China Yuan
 Indian Rupee
 jbronston: Mexican Peso
+abhishek: French francs
